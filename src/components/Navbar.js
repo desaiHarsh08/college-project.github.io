@@ -39,7 +39,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className='navbar fixed w-full  z-[111111] text-white  border' >
+        <div className='navbar fixed w-full  z-[111111] text-white  ' >
             <header id='header' className='flex  items-center py-2 h-20  fixed w-full  xl:py-5 px-5 '>
                 <nav className='flex justify-between h-20 xl:justify-center w-full items-center '>
                     <div className='left logo h-[4rem] flex justify-start xl:justify-end items-center w-1/2 xl:w-[15%]' >
