@@ -31,7 +31,7 @@ const GetInTouch = () => {
             </div>
             <div className='flex space-x-7 my-2 items-center '>
               <i class="fa fa-envelope text-[#0d2d62]" aria-hidden="true"></i>
-              <p>  loremIpsomDolorSit@Consecutor.net</p>
+              <p>  loremIpsomDolor@Consecutor.net</p>
             </div>
           </div>
           <div className='border-2 my-3 p-5 border-blue-800 shadow-2xl '>
