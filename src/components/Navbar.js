@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../img/logo-icrfs.png'
+// import logo from '../img/logo-icrfs.png'
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -41,10 +41,10 @@ const Navbar = () => {
     return (
         <div className='navbar fixed w-full  z-[111111] text-white  ' >
             <header id='header' className='flex  items-center py-2 h-20  fixed w-full  xl:py-5 px-5 '>
-                <nav className='flex justify-between h-20 xl:justify-center w-full items-center '>
-                    <div className='left logo h-[4rem] flex justify-start xl:justify-end items-center w-1/2 xl:w-[15%]' >
+                <nav className='flex justify-end h-20 xl:justify-center w-full items-center '>
+                    {/* <div className='left logo h-[4rem] flex justify-start xl:justify-end items-center w-1/2 xl:w-[15%]' >
                         <img src={logo} alt='logo' id='logo' className='h-14 transition-all  ' />
-                    </div>
+                    </div> */}
                     <div className='right flex h-[4rem] justify-end items-center xl:justify-center w-1/2 xl:w-[85%]'>
                         {/* Large screen menu */}
                         <ul className='uppercase hidden xl:flex space-x-3 text-sm font-semibold '>

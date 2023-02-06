@@ -12,28 +12,32 @@ const ImportantDates = () => {
       </div>
       <div className='flex justify-center '>
         <table className='border border-red-800'>
-          <thead >
+          {/* <thead >
             <tr className='bg-[#0d2d62] text-white lg:text-xl'>
               <th className='py-3 text-center px-5 border-r-2 border-white'>Last date for paper submission</th>
               <th className='py-3 text-center px-5 border-2 border-transparent'>15th February 2023</th>
             </tr>
-          </thead>
+          </thead> */}
           <tbody className='border'>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
-              <td className='p-3 text-center border-2 border-r-2'>Notification of acceptance</td>
-              <td className='p-3 text-center'>Within a fortnight from the date of approval of Manuscript from reviewer </td>
+              <td className='p-3 text-center border-2 border-r-2'>Abstract Submission Deadline</td>
+              <td className='p-3 text-center'>20<sup className='mr-1'>th</sup>Feb 2023</td>
             </tr>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
-              <td className='p-3 text-center border-2 border-r-2'>Camera ready paper submission</td>
-              <td className='p-3 text-center'>30th April 2023</td>
+              <td className='p-3 text-center border-2 border-r-2'>Paper Submission Deadline</td>
+              <td className='p-3 text-center'>24<sup className='mr-1'>th</sup>Feb 2023</td>
             </tr>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
-              <td className='p-3 text-center border-2 border-r-2'>Release of conference schedule</td>
-              <td className='p-3 text-center'>8th May 2023 </td>
+              <td className='p-3 text-center border-2 border-r-2'>Intimation of Acceptance</td>
+              <td className='p-3 text-center'>28<sup className='mr-1'>th</sup>Feb 2023 </td>
             </tr>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
-              <td className='p-3 text-center border-2 border-r-2'>Conference dates</td>
-              <td className='p-3 text-center'>21st - 22nd  July 2023</td>
+              <td className='p-3 text-center border-2 border-r-2'>Remiittence of Registration Form</td>
+              <td className='p-3 text-center'>1<sup className='mr-1'>st</sup>March 2023</td>
+            </tr>
+            <tr className='hover:bg-slate-300 border-2 border-b-2'>
+              <td className='p-3 text-center border-2 border-r-2'>Accomodation Request</td>
+              <td className='p-3 text-center'>20<sup className='mr-1'>th</sup>March 2023</td>
             </tr>
           </tbody>
         </table>

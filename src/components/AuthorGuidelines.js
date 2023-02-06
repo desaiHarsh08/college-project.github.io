@@ -11,7 +11,7 @@ const AuthorGuidelines = () => {
         </div>
       </div>
       <div className='my-5 links flex flex-col md:flex-row md:items-center'>
-        <div className='left md:w-1/2'>
+        {/* <div className='left md:w-1/2'>
           <ul>
             <li className='my-2 flex gap-5 items-center hover:text-blue-500'>
               <i class="fa fa-angle-double-right" aria-hidden="true"></i>
@@ -50,7 +50,10 @@ const AuthorGuidelines = () => {
               <p>Permission Letter</p>
             </li>
           </ul>
-        </div>
+        </div> */}
+        <p>
+        Original unpublished papers for presentation in technical session of conference are called from Researchers, Scientists and Engineers. Refer website www.icmbat.co.in for manuscript/abstract template.
+        </p>
 
       </div>
       <div className='reviews my-5'>
