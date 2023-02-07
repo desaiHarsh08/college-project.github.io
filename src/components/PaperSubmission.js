@@ -39,7 +39,7 @@ const PaperSubmission = () => {
           <li className='my-1 flex items-center gap-6 '>
             <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
             <p>
-              Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
+              Please mention the most relevant One or Two sub-theme(s) of the conference which fits your paper.
             </p>
           </li>
         </ul>

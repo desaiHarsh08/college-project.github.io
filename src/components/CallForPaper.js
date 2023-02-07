@@ -18,7 +18,7 @@ const CallForPaper = () => {
         </button>
       </div> */}
       <p className='text-center text-xl '>
-        The Conference invites full length original research contributions of professionals from Academic Institutions, Industries, Government Undertakings, <span className='underline'>Research Scholars and Student community</span> &nbsp;across the Nation and abroad.
+        The Conference invites full length original research contributions of professionals from Academic Institutions, Industries, Government Undertakings, Research Scholars and Student community across the Nation and Abroad.
       </p>
       <div className='cards'>
         <div className='row flex flex-col md:flex-row gap-3 my-7 '>
@@ -34,7 +34,7 @@ const CallForPaper = () => {
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Micro/Nano System</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Antennas, RF and Microwave Communications</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Cognitive Radio and Cognitive Networks</span></li>
-                <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Internet of Things in Electronics</span></li>
+                <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Internet of Things (IoT)</span></li>
               </ul>
             </div>
           </div>
