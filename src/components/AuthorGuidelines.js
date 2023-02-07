@@ -74,7 +74,7 @@ const AuthorGuidelines = () => {
           <li className='my-1 flex items-center gap-6 '>
             <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
             <p>
-            All the manuscripts with permitted plagiarism will be sent for technical, quality and presentation review. Double review process will be adopted for ICRFS-2023. Reviewer’s comments will be communicated to the respective authors. Manuscripts recommended for revision by the reviewers will be reverted to the respective author with a notification for resubmission within a week’s time from the date of notification.
+            All the manuscripts with permitted plagiarism will be sent for technical, quality and presentation review. Double review process will be adopted for ETECE-2023. Reviewer’s comments will be communicated to the respective authors. Manuscripts recommended for revision by the reviewers will be reverted to the respective author with a notification for resubmission within a week’s time from the date of notification.
             </p>
           </li>
           <li className='my-1 flex items-center gap-6 '>

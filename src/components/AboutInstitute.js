@@ -18,7 +18,7 @@ const AboutInstitute = () => {
           The college has excellent infrastructure and faculty members. It is approved by AICTE New Delhi, DTE, Government of Maharashtra. The college successfully continues to attract attention of scholars from all over the subcontinent.
         </p>
         <p className='my-6'>
-        The college runs under graduate and postgraduate courses i.e two courses with seven branches of Engineering and three PG programs in Mechanical Engineering ,Civil Engineering and Master of Business Administration . In addition to these, college has approved research centre for Ph.D in Civil Engineering and Mechanical Engineering programs.
+        The college runs under graduate and postgraduate courses with seven branches of Engineering and three PG programs in Mechanical Engineering ,Civil Engineering and Master of Business Administration . In addition to these, college has approved research centre for Ph.D in Civil Engineering and Mechanical Engineering programs.
         </p>
       </div>
     </div>

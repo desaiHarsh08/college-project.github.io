@@ -14,80 +14,20 @@ const InternationalAdvisory = () => {
         <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Sadanand Pandey</p>
-              <p>Korea</p>
+              <p className='text-xl'>Dr. V. Ganeshkar Reddy</p>
+              <p>ISTE, Chairperson</p>
             </div>
           </div>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Rachid EI kaim Billah</p>
-              <p>Morocco</p>
+              <p className='text-xl'>Dr. Pratapsinh Kakasaheb Desai</p>
+              <p>IE(I), Kolkatta</p>
             </div>
           </div>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Mukund S. Chorgahade</p>
-              <p>USA</p>
-            </div>
-          </div>
-        </div>
-        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7'>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Sadanand Pandey</p>
-              <p>Korea</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Rachid EI kaim Billah</p>
-              <p>Morocco</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Mukund S. Chorgahade</p>
-              <p>USA</p>
-            </div>
-          </div>
-        </div>
-        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7'>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Sadanand Pandey</p>
-              <p>Korea</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Rachid EI kaim Billah</p>
-              <p>Morocco</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Mukund S. Chorgahade</p>
-              <p>USA</p>
-            </div>
-          </div>
-        </div>
-        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7'>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Sadanand Pandey</p>
-              <p>Korea</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr.Rachid EI kaim Billah</p>
-              <p>Morocco</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2 border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Mukund S. Chorgahade</p>
-              <p>USA</p>
+              <p className='text-xl'>Dr. Bhushan Kharbikar</p>
+              <p></p>
             </div>
           </div>
         </div>

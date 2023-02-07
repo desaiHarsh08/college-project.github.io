@@ -21,7 +21,7 @@ const ImportantDates = () => {
           <tbody className='border'>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
               <td className='p-3 text-center border-2 border-r-2'>Abstract Submission Deadline</td>
-              <td className='p-3 text-center'>20<sup className='mr-1'>th</sup>Feb 2023</td>
+              <td className='p-3 text-center'>21<sup className='mr-1'>s1</sup>Feb 2023</td>
             </tr>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
               <td className='p-3 text-center border-2 border-r-2'>Paper Submission Deadline</td>
@@ -37,7 +37,7 @@ const ImportantDates = () => {
             </tr>
             <tr className='hover:bg-slate-300 border-2 border-b-2'>
               <td className='p-3 text-center border-2 border-r-2'>Accomodation Request</td>
-              <td className='p-3 text-center'>20<sup className='mr-1'>th</sup>March 2023</td>
+              <td className='p-3 text-center'>20<sup className='mr-1'>th</sup>Feb 2023</td>
             </tr>
           </tbody>
         </table>

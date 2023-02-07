@@ -10,7 +10,8 @@ const Home = () => {
     return (
         <div id='home' className='home flex flex-col justify-center items-center z-1 pt-32 pb-14 py-4 text-white ' style={{  backgroundColor: `#1f1f1f`, background: `rgba(44, 48, 66, .8) url(${myBg})`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundBlendMode: 'darken' , backgroundSize: 'cover'}}>
             <h1 className=' text-center text-xl sm:text-2xl md:text-4xl font-bold px-3 bg-[#0d2d62] p-3  '>
-                1<sup className='mr-1'>st</sup> International Conference <br /><span className='text-2xl'>on</span> <br />Electronics and Computer Exigencies
+                1<sup className='mr-1'>st</sup> International Conference <br /><span className='text-2xl'>on</span> <br />Electronics and Computer Exigencies<br />
+                (ETECE - 23)
             </h1>
 
             <h2 className='text-center text-[18px] md:text-2xl font-medium mt-5 '>10<sup className='mr-1'>th</sup> and 11<sup className='mr-1'>th</sup>  March, 2023</h2>
@@ -40,20 +41,21 @@ const Home = () => {
                             <img src={kdkGLogo} alt='kdk-group-logo' className='w-24' />
 
                         </div>
-                        <p className='text-center md:text-start font-normal uppercase w-full'>KDK Group of Institute</p>
+                        <p className='text-center md:text-start font-normal uppercase w-full'>KDK Group of Institutes</p>
                     </div>
                 </div>
 
 
 
                 <div className='text-xl md:text-2xl font-medium text-center my-7'>
-                    <p className='my-3'>(NACC & NBA Accredited)</p>
+                    <p className='my-3'>(NAAC & NBA Accredited)</p>
                     <p className='my-3'>Department of Electronics &  Telecommunication Engineering</p>
+                    <p className='my-3'>And</p>
                     <p className='my-3'>Internal Quality & Assurance Cell (IQAC)</p>
                 </div>
             </div>
             <div className='my-3'>
-                <h2 className='text-center text-base my-2 md:text-3xl font-medium  '>Association with</h2>
+                <h2 className='text-center text-base my-2 md:text-3xl font-medium  '>In Association With</h2>
                 <div className='flex flex-wrap my-5 justify-center items-center'>
                     <img src={association1} alt='association1' className='w-20 h-14 mx-3 rounded-md' />
                     <img src={association2} alt='association2' className='w-20 h-14 mx-3 rounded-md' />
@@ -63,7 +65,7 @@ const Home = () => {
             <div className='text-center font-medi
              md:text-xl px-3'>
                 <p>The program is being organized under the Centenary Celebration of the
-                    Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur.
+                    Rashtrasant Tukodoji Maharaj Nagpur University, Nagpur.
                     </p>
                     <br/>
                     <p>Conference Website: <a className='text-purple-200 hover:text-purple-300' href='www.etece.co.in'> www.etece.co.in</a></p>

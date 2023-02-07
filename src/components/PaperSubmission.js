@@ -42,40 +42,6 @@ const PaperSubmission = () => {
               Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
             </p>
           </li>
-          <li className='my-1 flex items-center gap-6 '>
-            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
-              Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
-            </p>
-          </li>
-          <li className='my-1 flex items-center gap-6 '>
-            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
-              Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
-            </p>
-          </li>
-          <li className='my-1 flex items-center gap-6 '>
-            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
-              Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
-            </p>
-          </li>
-          <li className='my-1 flex items-center gap-6 '>
-            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
-              Please mention the most relevant one or two sub-theme(s) of the conference which fits your paper.
-            </p>
-          </li>
-          <li className='my-1 '>
-            <div className='flex items-center gap-6 '>
-            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
-              Upload the full paper through the EasyChair platform:
-            </p>
-            </div>
-            
-            <a className='mx-10 text-purple-900 hover:text-blue-500' href='https://easychair.org/conferences/?conf=icrfs2023'>https://easychair.org/conferences/?conf=icrfs2023</a>
-          </li>
         </ul>
       </div>
     </div>

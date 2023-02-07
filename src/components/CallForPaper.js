@@ -18,14 +18,14 @@ const CallForPaper = () => {
         </button>
       </div> */}
       <p className='text-center text-xl '>
-        The Conference invites full length original research contributions of professionals from Academic Institutions, Government Undertakings, Research Scholars and Student community across the Nation.
+        The Conference invites full length original research contributions of professionals from Academic Institutions, Industries, Government Undertakings,( Research Scholars and Student community )across the Nation and abroad.
       </p>
       <div className='cards'>
         <div className='row flex flex-col md:flex-row gap-3 my-7 '>
           <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
             <h4 className='text-center font-medium py-2'>Electronics & Telecommunication Engineering</h4>
             <div className='info h-[95%]  rounded-md py-2 bg-white border'>
-              <ul>
+              <ul className='space-y-1' >
                  
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Communication System and Signal Processing,</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Intelligent Systems for Smart Computing,</span></li>
@@ -34,16 +34,16 @@ const CallForPaper = () => {
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Micro/Nano System</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Antennas, RF and Microwave Communications</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Cognitive Radio and Cognitive Networks</span></li>
+                <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Internet of Things in Electronics</span></li>
               </ul>
             </div>
           </div>
           <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
             <h4 className='text-center font-medium py-2'>Electrical Engineering</h4>
             <div className='info h-[95%]  rounded-md py-2 bg-white border'>
-              <ul>        
+              <ul className='space-y-1'>        
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Power Generation, Transmission & Distribution</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Renewable Energy Sources, Smart grids Technologies & Applications</span></li>
-                <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span></span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Power Electronics, Systems and Applications </span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Electrical Machines and Adjustable Speed Drives</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>For Sub Themes Refer to www.icape.co.in Circuits and Systems </span></li>
@@ -54,9 +54,9 @@ const CallForPaper = () => {
             </div>
           </div>
           <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
-            <h4 className='text-center font-medium py-2'>Social Innovations in IT & AIDS</h4>
+            <h4 className='text-center font-medium py-2'>Social Innovations in IT & AI&DS</h4>
             <div className='info h-[95%]  rounded-md py-2 bg-white border'>
-              <ul>           
+              <ul className='space-y-1'>           
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Scheduling Problems in Manufacturing and Service Organizations</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Supply Chain Management & Reverse Logistics</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>SCM Solutions in Retail Industry</span></li>
@@ -81,7 +81,7 @@ const CallForPaper = () => {
         <div className='card h-full w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
             <h4 className='text-center font-medium py-2'>Computer Science & Engineering</h4>
             <div className='info h-[95%]  rounded-md py-2 bg-white border'>
-              <ul>
+              <ul className='space-y-1'>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Digital Government Innovations</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Digital Business Innovations</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Digital Entrepreneurship</span></li>
@@ -96,7 +96,7 @@ const CallForPaper = () => {
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovation Ecosystems </span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in Information Sciences  </span></li>
                 <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in E-Leaming & E-Health   </span></li>
-                <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Internet of Things   </span></li>
+                <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Industrial Internet of Things   </span></li>
               </ul>
             </div>
           </div>

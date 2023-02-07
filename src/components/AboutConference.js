@@ -45,7 +45,7 @@ const AboutConference = () => {
                 </ul> */}
 
                 <p className='text-justify'>
-                As the today's global economic environment is undergoing transformation so managing change is vital to ensure sustainable growth. Innovation and emerging opportunities has become one of the key strategic task. This conference will help to renew key challenges and opportunities in today's dynamic world. This conference is to improve the research and theory building in every area by facilitating the exchange of knowledge, ideas, latest trends, developments, and contemporary challenges. The aim of this conference is to provide a platform to researcher; practitioners sharing their ideas and to discuss current issues dealing with changing economic and competitive environment and to also get acquainted with latest developments and trends.
+                As the today's global economic environment is undergoing transformation so managing change is vital to ensure sustainable growth. Innovation and emerging opportunities has become one of the key strategic task. This conference will help to renew key challenges and opportunities in today's dynamic world. This conference is to improve the research and theory building in every area by facilitating the exchange of knowledge, ideas, latest trends, developments, and contemporary challenges. The aim of this conference is to provide a platform to researcher; practitioners sharing their ideas and to discuss current issues in science and technology dealing with (last) changing economic and competitive environment and to also get acquainted with latest developments and trends.
                 </p>
             </div>
         </div>

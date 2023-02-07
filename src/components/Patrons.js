@@ -90,7 +90,7 @@ const Patrons = () => {
           </div>
         </div>
         <div className='text-center text-xl'>
-          <p>
+          <p className='bg-green-200'>
             K.D.K. College of Engineering, Nagpur <br />(www.kdkce.edu.in)<br />
             Great Nag Road, Nandanvan, Nagpur-440024.<br />
             Email: icmbat2022@kdkce.edu.in<br />
