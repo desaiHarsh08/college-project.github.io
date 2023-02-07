@@ -2,7 +2,7 @@ import React from 'react'
 
 const CallForPaper = () => {
   return (
-    <div className='py-7 my-9 px-5 lg:px-48 ' id='call-for-paper'>
+    <div className='py-7 my-9 px-5 lg:px-5 ' id='call-for-paper'>
       <div className='heading my-5  '>
         <h3 className='text-center text-4xl font-semibold my-2 text-red-800'>Call For Paper</h3>
         <div className='line flex flex-col items-center justify-center space-y-1'>
@@ -22,9 +22,10 @@ const CallForPaper = () => {
       </p>
       <div className='cards'>
         <div className='row flex flex-col md:flex-row gap-3 my-7 '>
-          <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
-            <h4 className='text-center font-medium py-2'>Electronics & Telecommunication Engineering</h4>
-            <div className='info h-[95%]  rounded-md py-2 bg-white border'>
+          <div className='card w-full md:w-1/3  shadow-lg border-2  '>
+            <div className='bg-[#adbac7]'><h4 className='text-center font-medium py-2'>Electronics & Telecommunication Engineering</h4></div>
+            
+            <div className='info  h-[90%]  rounded-md py-2 bg-white '>
               <ul className='space-y-1' >
                  
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Communication System and Signal Processing,</span></li>
@@ -38,9 +39,12 @@ const CallForPaper = () => {
               </ul>
             </div>
           </div>
-          <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
+          <div className='card w-full md:w-1/3  shadow-lg border-2    '>
+            <div className='bg-[#adbac7]'>
             <h4 className='text-center font-medium py-2'>Electrical Engineering</h4>
-            <div className='info h-[95%]  rounded-md py-2 bg-white border'>
+            </div>
+            
+            <div className='info h-[90%]  rounded-md py-2 bg-white '>
               <ul className='space-y-1'>        
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Power Generation, Transmission & Distribution</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Renewable Energy Sources, Smart grids Technologies & Applications</span></li>
@@ -53,9 +57,12 @@ const CallForPaper = () => {
               </ul>
             </div>
           </div>
-          <div className='card w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
+          <div className='card w-full md:w-1/3  shadow-lg border-2'>
+            <div className='bg-[#adbac7]'>
+
             <h4 className='text-center font-medium py-2'>Social Innovations in IT & AI&DS</h4>
-            <div className='info h-[95%]  rounded-md py-2 bg-white border'>
+            </div>
+            <div className='info h-[90%]  rounded-md py-2 bg-white border'>
               <ul className='space-y-1'>           
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Scheduling Problems in Manufacturing and Service Organizations</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Supply Chain Management & Reverse Logistics</span></li>
@@ -78,9 +85,12 @@ const CallForPaper = () => {
           </div>
         </div>
         <div className='row flex flex-col justify-center md:flex-row gap-3 my-7'>
-        <div className='card h-full w-full md:w-1/3 bg-[#adbac7] p-3 pb-7 '>
-            <h4 className='text-center font-medium py-2'>Computer Science & Engineering</h4>
-            <div className='info h-[95%]  rounded-md py-2 bg-white border'>
+        <div className='card h-full w-full md:w-1/3  shadow-lg border-2 '>
+          <div className='bg-[#adbac7]'>
+          <h4 className='text-center font-medium py-2'>Computer Science & Engineering</h4>
+          </div>
+            
+            <div className='info h-[90%]  rounded-md py-2 bg-white border'>
               <ul className='space-y-1'>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Digital Government Innovations</span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span>Digital Business Innovations</span></li>
