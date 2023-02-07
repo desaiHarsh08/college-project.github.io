@@ -9,7 +9,7 @@ import kdkGLogo from '../img/kdk-g-logo.png'
 const Home = () => {
     return (
         <div id='home' className='home flex flex-col justify-center items-center z-1 pt-32 pb-14 py-4 text-white ' style={{  backgroundColor: `#1f1f1f`, background: `rgba(44, 48, 66, .8) url(${myBg})`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundBlendMode: 'darken' , backgroundSize: 'cover'}}>
-            <h1 className=' text-center text-xl sm:text-2xl md:text-4xl font-bold px-3 bg-yellow-600 p-3  '>
+            <h1 className=' text-center text-xl sm:text-2xl md:text-4xl font-bold px-3 bg-[#0d2d62] p-3  '>
                 1<sup className='mr-1'>st</sup> International Conference <br /><span className='text-2xl'>on</span> <br />Electronics and Computer Exigencies
             </h1>
 
@@ -40,16 +40,16 @@ const Home = () => {
                             <img src={kdkGLogo} alt='kdk-group-logo' className='w-24' />
 
                         </div>
-                        <p className='text-center md:text-start uppercase w-full'>KDK Group of Institute</p>
+                        <p className='text-center md:text-start font-normal uppercase w-full'>KDK Group of Institute</p>
                     </div>
                 </div>
 
 
 
                 <div className='text-xl md:text-2xl font-medium text-center my-7'>
-                    <p className='my-3'>(NACC & NBA Acrredited)</p>
+                    <p className='my-3'>(NACC & NBA Accredited)</p>
                     <p className='my-3'>Department of Electronics &  Telecommunication Engineering</p>
-                    <p className='my-3'>Internal Quality Assurance Cell (IQAC)</p>
+                    <p className='my-3'>Internal Quality & Assurance Cell (IQAC)</p>
                 </div>
             </div>
             <div className='my-3'>

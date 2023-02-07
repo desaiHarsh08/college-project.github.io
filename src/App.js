@@ -19,7 +19,7 @@ function App() {
 
   return (
     <>
-      <div className="App  overflow-x-hidden">
+      <div className="App  ">
         <Navbar />
         <Home />
         <AboutInstitute />

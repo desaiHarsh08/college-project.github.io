@@ -9,7 +9,7 @@ const Patrons = () => {
   return (
     <div className='my-20 py-14 pb-20 px-5 lg:px-48 bg-[#e6eff8]' id='patrons'>
       <div className='heading my-5 mb-10  '>
-        <h3 className='text-center text-4xl font-semibold my-2 text-red-800'>Patrons</h3>
+        <h3 className='text-center text-4xl font-semibold my-2 text-red-800'>Our Patrons</h3>
         <div className='line flex flex-col items-center justify-center space-y-1'>
           <p className='w-24 border h-1 bg-black'></p>
           <p className='w-14 border h-1 bg-red-500'></p>

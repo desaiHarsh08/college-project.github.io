@@ -2,7 +2,7 @@ import React from 'react'
 
 const Registration = () => {
   return (
-    <div className='my-20 py-14 pb-20 px-5 lg:px-48 bg-[#e6eff8]' id='registration'>
+    <div className='my-20 py-14 pb-20 px-1 lg:px-48 bg-[#e6eff8]' id='registration'>
       <div className='heading my-5 `  '>
         <h3 className='text-center text-4xl font-semibold my-2 text-[#0d2d62]'>Registration</h3>
         <div className='line flex flex-col items-center justify-center space-y-1'>
