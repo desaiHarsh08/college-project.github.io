@@ -18,7 +18,7 @@ const CallForPaper = () => {
         </button>
       </div> */}
       <p className='text-center text-xl '>
-        The Conference invites full length original research contributions of professionals from Academic Institutions, Industries, Government Undertakings,( Research Scholars and Student community )across the Nation and abroad.
+        The Conference invites full length original research contributions of professionals from Academic Institutions, Industries, Government Undertakings, <span className='underline'>Research Scholars and Student community</span> &nbsp;across the Nation and abroad.
       </p>
       <div className='cards'>
         <div className='row flex flex-col md:flex-row gap-3 my-7 '>

@@ -57,7 +57,7 @@ const AuthorGuidelines = () => {
 
       </div>
       <div className='reviews my-5'>
-        <h4 className='font-bold my-3'>Manuscript Review/Paper Acceptance Process</h4>
+        <h4 className='font-bold my-3 underline'>Manuscript Review/Paper Acceptance Process</h4>
         <ul>
           <li className='my-1 flex items-center gap-6 '>
             <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
