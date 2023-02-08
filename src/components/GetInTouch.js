@@ -13,7 +13,7 @@ const GetInTouch = () => {
       <div className='flex flex-col sm:flex-row gap-7 '>
         <div className='left w-full sm:w-[60%] '>
           <div className='border-2  my-3 p-5 border-blue-800 shadow-2xl'>
-            <h4 className='sm:text-xl font-bold'>Conference Dates: 10th and 11th March, 2023</h4>
+            <h4 className='sm:text-xl font-bold'>Conference Dates: 10<sup>th</sup>&nbsp; and 11<sup>th</sup>&nbsp; March, 2023</h4>
             <div className='flex space-x-7 items-center '>
               <i class="fa fa-map-marker text-[#0d2d62]" aria-hidden="true"></i>
               <p>
