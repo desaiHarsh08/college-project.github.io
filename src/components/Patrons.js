@@ -23,8 +23,8 @@ const Patrons = () => {
           </div>
           <div className='bg-[#0d2d62] text-white  p-5 flex justify-center items-center flex-col'>
             <h4 className='font-semibold text-xl'>Shri. Rajendra B Mulak</h4>
-            <p>Ex. Minister, Govt. of Maharashtra, </p>
-            <p>Secretary, BCYRC, Nagpur</p>
+            <p className='text-center'>Ex. Minister, Govt. of Maharashtra, </p>
+            <p className='text-center'>Secretary, BCYRC, Nagpur</p>
           </div>
         </div>
         <div className='card my-2 bg-[#0d2d62] md:bg-transparent' >
@@ -34,8 +34,8 @@ const Patrons = () => {
           </div>
           <div className='bg-[#0d2d62] text-white  p-5 flex justify-center items-center flex-col'>
             <h4 className='font-semibold text-xl'>Shri. Yashraj R. Mulak</h4>
-            <p>Treasurer</p>
-            <p>BCYRC, Nagpur</p>
+            <p className='text-center'>Treasurer</p>
+            <p className='text-center'>BCYRC, Nagpur</p>
           </div>
         </div>
       </div>
@@ -55,8 +55,8 @@ const Patrons = () => {
             </div>
             <div className='bg-[#0d2d62] text-white  p-5 flex justify-center items-center flex-col'>
               <h4 className='font-semibold text-xl'>Dr. D.P. Singh</h4>
-              <p>Principal,  </p>
-              <p>K.D.K College of Engg., Nagpur</p>
+              <p className='text-center'>Principal,  </p>
+              <p className='text-center'>K.D.K College of Engg., Nagpur</p>
             </div>
           </div>
         </div>
@@ -75,8 +75,8 @@ const Patrons = () => {
             </div>
             <div className='bg-[#0d2d62] text-white  p-5 flex justify-center items-center flex-col'>
               <h4 className='font-semibold text-xl'>Dr. A.M. Badar</h4>
-              <p>Vice-Principal,  </p>
-              <p>K.D.K College of Engg., Nagpur</p>
+              <p className='text-center'>Vice-Principal,  </p>
+              <p className='text-center'>K.D.K College of Engg., Nagpur</p>
             </div>
           </div>
         </div>

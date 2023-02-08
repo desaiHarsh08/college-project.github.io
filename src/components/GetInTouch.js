@@ -2,7 +2,7 @@ import React from 'react'
 
 const GetInTouch = () => {
   return (
-    <div className='mt-20 pt-14 px-5 mb-5 lg:px-48 bg-[#e6eff8] ' id='get-in-touch'>
+    <div className='mt-20 pt-14 px-1 mb-5 lg:px-48 bg-[#e6eff8] ' id='get-in-touch'>
       <div className='heading my-5 mb-10  '>
         <h3 className='text-center text-4xl font-semibold my-2 text-red-800'>Get In Touch</h3>
         <div className='line flex flex-col items-center justify-center space-y-1'>
@@ -12,7 +12,7 @@ const GetInTouch = () => {
       </div>
       <div className='flex flex-col sm:flex-row gap-7 '>
         <div className='left w-full sm:w-[60%] '>
-          <div className='border-2  my-3 p-5 border-blue-800 shadow-2xl'>
+          <div className='border-2  my-3 p-2 border-blue-800 shadow-2xl'>
             <h4 className='sm:text-xl font-bold'>Conference Dates: 10<sup>th</sup>&nbsp; and 11<sup>th</sup>&nbsp; March, 2023</h4>
             <div className='flex space-x-7 items-center '>
               <i class="fa fa-map-marker text-[#0d2d62]" aria-hidden="true"></i>
@@ -24,7 +24,7 @@ const GetInTouch = () => {
                 KDK College Rd, Opposite Telephone Exchange, Nandanvan, Nagpur, Maharashtra 440009</p>
             </div>
           </div>
-          <div className='border-2 my-3 p-5 border-blue-800 shadow-2xl '>
+          <div className='border-2 my-3 p-3 border-blue-800 shadow-2xl '>
             <div className='flex space-x-7 my-2 items-center '>
               <i class="fa fa-envelope text-[#0d2d62]" aria-hidden="true"></i>
               <p> generalchair.icrfs@gmail.com</p>
