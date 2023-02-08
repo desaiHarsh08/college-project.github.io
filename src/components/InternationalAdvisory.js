@@ -11,8 +11,55 @@ const InternationalAdvisory = () => {
         </div>
       </div>
       <div className='cards'>
+
         <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Mahmoud Elmesalawy</p>
+              <p>Helwan University, Cairo Egypt</p>
+            </div>
+          </div>
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Pljonkin Anton Pavlovich</p>
+              <p >Associate Professor, Director of SFU Indian-Russian Scientific centre, Department of Information Security of Telecommunication System</p>
+            </div>
+          </div>
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Xiao-Zhi Gao</p>
+              <p>School of Computing, University of Eastern, Finland</p>
+            </div>
+          </div>
+
+
+        </div>
+        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Hemant O. Thakre</p>
+              <p>President (IEI) India</p>
+            </div>
+          </div>
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Lalit Garg</p>
+              <p>University of Malta</p>
+            </div>
+          </div>
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
+              <p className='text-xl'>Dr. Sunil Kumar Sejong</p>
+              <p>Research Professor, University South Korea</p>
+            </div>
+          </div>
+          
+          
+          
+
+        </div>
+        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
+        <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
               <p className='text-xl'>Dr. V. Gunashekar Reddy</p>
               <p>Chairperson (IETE)</p>
@@ -26,52 +73,23 @@ const InternationalAdvisory = () => {
           </div>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Hemant O. Thakre</p>
-              <p>President (IEI) India</p>
-            </div>
-          </div>
-        </div>
-        <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Mahmoud Elmesalawy</p>
-              <p>Helwan University, Cairo Egypt</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Bhushan Kharbikar</p>
-              <p>Postdoctoral Fellow University of California, USA</p>
-            </div>
-          </div>
-          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Lalit Garg</p>
-              <p>University of Malta</p>
-            </div>
-          </div>
-        </div>
-          <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
-            <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-              <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-                <p className='text-xl'>Dr. Xiao-Zhi Gao</p>
-                <p>School of Computing, University of Eastern, Finland</p>
-              </div>
-            </div>
-            
-            <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-              <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-                <p className='text-xl'>Dr. Sunil Kumar Sejong</p>
-                <p>Research Professor, University South Korea</p>
-              </div>
-            </div>
-            <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
-            <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
               <p className='text-xl'>Dr. Sudhanshu Singh</p>
               <p>Asso. Prof., Dronacharya Group of Institutions, India</p>
             </div>
           </div>
-          </div>
+
+
+
+         
+          
+
+
+
+
+
+          
+          
+        </div>
 
         <div className='row my-14 flex flex-col md:flex-row justify-between gap-7' id='international-advisory'>
           <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
@@ -86,12 +104,16 @@ const InternationalAdvisory = () => {
               <p>Enterprenuer, USA, Director, Creative App Development.com</p>
             </div>
           </div>
-          <div className='card invisible w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
+          
+          <div className='card w-full md:w-1/3  transition-all bg-[#f9fafc] hover:-translate-y-5 border border-t-2 border-[#0d2d62] border-l-[5px] border-b-8 border-r-4 rounded-md '>
             <div className='border-2  h-full border-l-[10px] px-5 py-3 border-l-[#d5d0e7]'>
-              <p className='text-xl'>Dr. Sudhanshu Singh</p>
-              <p>Asso. Prof., Dronacharya Group of Institutions, India</p>
+              <p className='text-xl'>Dr. Bhushan Kharbikar</p>
+              <p>Postdoctoral Fellow University of California, USA</p>
             </div>
           </div>
+
+
+
         </div>
       </div>
     </div>

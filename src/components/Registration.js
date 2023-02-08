@@ -12,7 +12,9 @@ const Registration = () => {
       </div>
       <div>
         <p className='my-7'>
-          Every participant shall have to register by filling up a registration form through link: <a className='text-purple-500 hover:text-purple-600 mr-1' href='https://forms.gle/nvtREb3nhnhXS07L9'> https://forms.gle/nvtREb3nhnhXS07L9</a> 
+          Every participant shall have to register by filling up a registration form through link: <a className='text-purple-500 hover:text-purple-600 mr-1' href='
+https://forms.gle/AkCpzj3LAYax5KRu9'> 
+https://forms.gle/AkCpzj3LAYax5KRu9</a> 
           Given in website <a className='text-purple-500 hover:text-purple-600' href='www.etece.co.in'> www.etece.co.in</a>
         </p>
         <h4 className='text-center font-medium text-2xl'>Details of Registration fee are as follows:</h4>
@@ -25,7 +27,7 @@ const Registration = () => {
                 <th className='py-3 text-center px-5 border-r-2 border-white w-[10%] '>Sr. No</th>
                 <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Deligates</th>
                 <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Registration Fees For Participant only</th>
-                <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Registration Fees For Participant only after due date 20<sup>th</sup> &nbsp; Feb 2023</th>
+                <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Registration Fees For Participant only after due date 24<sup>th</sup> &nbsp; Feb 2023</th>
               </tr>
             </thead>
             <tbody className='border'>
@@ -72,17 +74,14 @@ const Registration = () => {
               <p className='my-3'>Bank Name: State Bank of India</p>
               <p className='my-3 font-medium'>Demand Draft should be in a favour of "KDK Engineering College Nagpur"</p>
             </div>
-            {/* <div className='right w-full md:w-1/2 px-5'>
-              <h4 className='text-2xl font-semibold my-3'>QR Code to Scan</h4>
-              <img src={online} alt='online' />
-            </div> */}
           </div>
         </div>
       </div>
       
       <div className='download-btn my-5 flex justify-center items-center'>
         <button className='px-4 py-3 border bg-[#0d2d62] hover:bg-orange-600 transition-all text-white rounded-full font-semibold '>
-          <a target={"_blank"} rel={"noreferrer"} href="https://drive.google.com/file/d/1aBjhfWVgHFxnIsulKZ4oIFMa1NW8Kts0/view?usp=sharing" >
+          <a target={"_blank"} rel={"noreferrer"} href="
+https://forms.gle/AkCpzj3LAYax5KRu9" >
             Click Here For Registration Form
           </a>
         </button>
