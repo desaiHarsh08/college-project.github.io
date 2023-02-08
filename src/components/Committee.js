@@ -28,7 +28,7 @@ const Committee = () => {
               </div>
               <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
                 <p className='font-bold'>Mr. Ankit Kshirsagar</p>
-                <p >(Director & CEO, AnkHUB TEchnology Ltd.)</p>
+                <p >Guest Editor (Director & CEO, AnkHUB TEchnology Ltd.)</p>
               </div>
               <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
                 <p className='font-bold'>Dr. Mrs. J.S Gawai</p>

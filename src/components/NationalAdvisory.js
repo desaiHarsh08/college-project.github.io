@@ -70,6 +70,10 @@ const NationalAdvisory = () => {
         </div>
         <div className='row my-5 flex flex-col sm:flex-row gap-7'>
         <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
+            <span className='text-sm lg:text-xl'>Dr. S.M Gulhane</span>
+            <span className='text-xs lg:text-base block text-center '>Principal, Pravasa Institute, Loni</span>
+          </div>
+        <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Nilesh Kasat</span>
             <span className='text-xs lg:text-base block text-center '>Sipha College of Engineering, Amravati</span>
           </div>
@@ -77,12 +81,13 @@ const NationalAdvisory = () => {
             <span className='text-sm lg:text-xl'>Dr. P.R. Deshmukh</span>
             <span className='text-xs lg:text-base block text-center '>G.C.O.E. Nagpur</span>
           </div>
-          <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
+          
+        </div>
+        <div className='row my-5 flex flex-col sm:flex-row gap-7'>
+        <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Dr. Aarti Khaparde</span>
             <span className='text-xs lg:text-base block text-center '>M.I.T.C.O.N, Pune</span>
           </div>
-        </div>
-        <div className='row my-5 flex flex-col sm:flex-row gap-7'>
         <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Dr. R.D Thakre</span>
             <span className='text-xs lg:text-base block text-center '>HoD Electronics, YCCE</span>
@@ -91,6 +96,9 @@ const NationalAdvisory = () => {
             <span className='text-sm lg:text-xl'>Dr. R.H. Talwekar</span>
             <span className='text-xs lg:text-base block text-center '>HoD Electronics, G.C.O.E. Nagpur</span>
           </div>
+        </div>
+        <div className='row my-5 flex flex-col sm:flex-row gap-7'>
+        
           <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Mr. Sandeep Darwhekar</span>
             <span className='text-xs lg:text-base block text-center '>Beta Computronics Pvt. Ltd., India</span>
