@@ -107,14 +107,14 @@ const Patrons = () => {
             <p className='w-14 border h-1 bg-red-500'></p>
           </div>
         </div>
-        <div className='convener flex justify-center gap-10 '>
-          <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
+        <div className='convener flex flex-col my-3  sm:flex-row justify-center gap-10 '>
+          <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
             <p className='font-bold'>Dr. R.A. Burange</p>
             <p >Assisstant Professor</p>
             <p >ETC Engineering Deptt.</p>
             <p >KDKCE, Nagpur</p>
           </div>
-          <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
+          <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
             <p className='font-bold'>Dr. P.D. Khandait</p>
             <p >Professor & Head</p>
             <p >ETC Engineering Deptt.</p>
