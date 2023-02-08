@@ -103,11 +103,11 @@ const NationalAdvisory = () => {
             <span className='text-sm lg:text-xl'>Mr. Sandeep Darwhekar</span>
             <span className='text-xs lg:text-base block text-center '>Beta Computronics Pvt. Ltd., India</span>
           </div>
-          <div className='card shadow-xl invisible hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
+          <div className='card shadow-xl  invisible hover:bg-red-600 hover:text-white w-full sm:w-1/3  hidden sm:flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Mr. Sandeep Darwhekar</span>
             <span className='text-xs lg:text-base block text-center '>Beta Computronics Pvt. Ltd., India</span>
           </div>
-          <div className='card shadow-xl invisible hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
+          <div className='card shadow-xl invisible hover:bg-red-600 hover:text-white w-full sm:w-1/3 hidden sm:flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Mr. Sandeep Darwhekar</span>
             <span className='text-xs lg:text-base block text-center '>Beta Computronics Pvt. Ltd., India</span>
           </div>
