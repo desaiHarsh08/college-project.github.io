@@ -109,18 +109,39 @@ const Patrons = () => {
         </div>
         <div className='convener flex flex-col my-3  sm:flex-row justify-center gap-10 '>
           <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
-            <p className='font-bold'>Dr. R.A. Burange</p>
-            <p >Assisstant Professor</p>
-            <p >ETC Engineering Deptt.</p>
-            <p >KDKCE, Nagpur</p>
-          </div>
-          <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
             <p className='font-bold'>Dr. P.D. Khandait</p>
             <p >Professor & Head</p>
             <p >ETC Engineering Deptt.</p>
             <p >KDKCE, Nagpur</p>
           </div>
+          <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
+            <p className='font-bold'>Dr. R.A. Burange</p>
+            <p >Assisstant Professor</p>
+            <p >ETC Engineering Deptt.</p>
+            <p >KDKCE, Nagpur</p>
+          </div>
+
         </div>
+
+      </div>
+      <div className='my-32'>
+        <div className='heading my-5 `  '>
+          <h3 className='text-center text-4xl font-semibold my-2 text-[#0d2d62]'>Co-Convener</h3>
+          <div className='line flex flex-col items-center justify-center space-y-1'>
+            <p className='w-24 border h-1 bg-black'></p>
+            <p className='w-14 border h-1 bg-red-500'></p>
+          </div>
+        </div>
+        <div className='co-convener flex flex-col my-3  sm:flex-row justify-center gap-10 '>
+          <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
+            <p className='font-bold'>Dr. (Mrs.) J.S. Gawai</p>
+            <p >Assistant Professor</p>
+            <p >ETC Engineering Deptt.</p>
+            <p >KDKCE, Nagpur</p>
+          </div>
+
+        </div>
+
       </div>
     </div>
   )

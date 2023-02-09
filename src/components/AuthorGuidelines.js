@@ -52,7 +52,7 @@ const AuthorGuidelines = () => {
           </ul>
         </div> */}
         <p>
-        Original unpublished papers for presentation in technical session of conference are called from Researchers, Scientists and Engineers. Refer website www.icmbat.co.in for manuscript/abstract template.
+        Original unpublished papers for presentation in technical session of conference are called from Researchers, Scientists and Engineers. Refer website www.etece.co.in for manuscript/abstract template.
         </p>
 
       </div>
@@ -80,7 +80,7 @@ const AuthorGuidelines = () => {
           <li className='my-1 flex items-center gap-6 '>
             <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
             <p>
-            Manuscript approved by the reviewers will only be allotted a unique paper id as per AIP paper submission guidelines.
+            Manuscript approved by the reviewers will only be allotted a unique paper id as per submission guidelines.
             </p>
           </li>
           <li className='my-1 flex items-center gap-6 '>

@@ -20,7 +20,13 @@ const PaperSubmission = () => {
           </li>
           <li className='my-1 flex items-center gap-6 '>
             <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
-            <p>
+            <p className='font-bold'>
+              The paper will be published in peer review google scholor Indexed Journals. 
+            </p>
+          </li>
+          <li className='my-1 flex items-center gap-6 '>
+            <i class="fa fa-arrow-circle-right text-yellow-600" aria-hidden="true"></i>
+            <p >
               The paper should be original and should not have been published or submitted for review in any journal or conferences.
             </p>
           </li>

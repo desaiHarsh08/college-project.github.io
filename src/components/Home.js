@@ -68,8 +68,7 @@ const Home = () => {
                     Rashtrasant Tukodoji Maharaj Nagpur University, Nagpur.
                     </p>
                     <br/>
-                    <p>Conference Website: <a className='text-purple-200 hover:text-purple-300' href='www.etece.co.in'> www.etece.co.in</a></p>
-            </div>
+                    </div>
         </div>
     )
 }
