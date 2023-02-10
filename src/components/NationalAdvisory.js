@@ -71,7 +71,7 @@ const NationalAdvisory = () => {
         <div className='row my-5 flex flex-col sm:flex-row gap-7'>
         <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Dr. S.M Gulhane</span>
-            <span className='text-xs lg:text-base block text-center '>Principal, Pravasa Institute, Loni</span>
+            <span className='text-xs lg:text-base block text-center '>Principal, Pravara Institute, Loni</span>
           </div>
           <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 hidden sm:flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Mr. Sandeep Darwhekar</span>

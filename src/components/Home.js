@@ -48,10 +48,10 @@ const Home = () => {
 
 
                 <div className='text-xl md:text-2xl font-medium text-center my-7'>
-                    <p className='my-3'>(NAAC & NBA Accredited)</p>
-                    <p className='my-3'>Department of Electronics &  Telecommunication Engineering</p>
-                    <p className='my-3'>And</p>
-                    <p className='my-3'>Internal Quality & Assurance Cell (IQAC)</p>
+                    <p className='my-5'>(NAAC & NBA Accredited)</p>
+                    <p className='mt-3'>Department of Electronics &  Telecommunication Engineering</p>
+                    <p className=''>And</p>
+                    <p className='mb-3'>Internal Quality & Assurance Cell (IQAC)</p>
                 </div>
             </div>
             <div className='my-3'>
