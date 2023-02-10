@@ -95,14 +95,14 @@ const NationalAdvisory = () => {
           </div>
           <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
             <span className='text-sm lg:text-xl'>Dr. R.H. Talwekar</span>
-            <span className='text-xs lg:text-base block text-center '>HoD Electronics, G.C.O.E. Nagpur</span>
+            <span className='text-xs lg:text-base block text-center '>HoD Electronics, G.C.O.E. Raipur</span>
           </div>
         </div>
         <div className='row my-5 flex flex-col sm:flex-row gap-7'>
         
           
           <div className='card shadow-xl  hover:bg-red-600 hover:text-white w-full sm:w-1/3 flex flex-col justify-center items-center  py-7 border-2 bg-white '>
-            <span className='text-sm lg:text-xl'>Nilesh Kasat</span>
+            <span className='text-sm lg:text-xl'>Dr. Nilesh Kasat</span>
             <span className='text-xs lg:text-base block text-center '>Sipna College of Engineering, Amravati</span>
           </div>
           <div className='card shadow-xl  invisible hover:bg-red-600 hover:text-white w-full sm:w-1/3  hidden sm:flex flex-col justify-center items-center  py-7 border-2 bg-white '>

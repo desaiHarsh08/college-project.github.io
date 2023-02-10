@@ -25,10 +25,7 @@ const GetInTouch = () => {
             </div>
           </div>
           <div className='border-2 my-3 p-3 border-blue-800 shadow-2xl '>
-            <div className='flex space-x-7 my-2 items-center '>
-              <i class="fa fa-envelope text-[#0d2d62]" aria-hidden="true"></i>
-              <p> generalchair.icrfs@gmail.com</p>
-            </div>
+            
             <div className='flex space-x-7 my-2 items-center '>
               <i class="fa fa-envelope text-[#0d2d62]" aria-hidden="true"></i>
               <p>  etece23@gmail.com</p>
@@ -37,7 +34,7 @@ const GetInTouch = () => {
           <div className='border-2 my-3 p-5 border-blue-800 shadow-2xl '>
             <div className='flex space-x-7 my-2 items-center '>
               <i class="fa fa-volume-control-phone text-[#0d2d62]" aria-hidden="true"></i>
-              <p><a href="tel:9422804873" class="d-block">+91 9422804873 / 8552803777</a></p>
+              <p><a href="tel:9422804873" class="d-block">+91 8999657385 / 9764441499</a></p>
             </div>
           </div>
 
