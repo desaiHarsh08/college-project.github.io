@@ -72,7 +72,7 @@ const Navbar = () => {
                                 <Link to={'patrons'} offset={-100} smooth={true} duration={500}>Patrons</Link>
                             </li>
                             <li className='transition-all cursor-pointer hover:underline hover:underline-offset-8'>
-                                <Link to={'commitee'} offset={-100} smooth={true} duration={500}>Commitee</Link>
+                                <Link to={'commitee'} offset={-100} smooth={true} duration={500}>Committee</Link>
                             </li>
                             <li className='transition-all cursor-pointer hover:underline hover:underline-offset-8'>
                                 <Link to={'get-in-touch'} offset={-100} smooth={true} duration={500}>Contact</Link>

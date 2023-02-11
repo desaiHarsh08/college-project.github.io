@@ -4,7 +4,7 @@ const InternationalAdvisory = () => {
   return (
     <div className='py-4 px-5 lg:px-48'>
       <div className='heading my-5 mb-10  '>
-        <h3 className='text-center text-3xl sm:text-4xl font-semibold my-2 text-red-800'>International Advisory Commitee</h3>
+        <h3 className='text-center text-3xl sm:text-4xl font-semibold my-2 text-red-800'>International Advisory Committee</h3>
         <div className='line flex flex-col items-center justify-center space-y-1'>
           <p className='w-24 border h-1 bg-black'></p>
           <p className='w-14 border h-1 bg-red-500'></p>

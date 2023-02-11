@@ -116,7 +116,7 @@ const Patrons = () => {
           </div>
           <div className='card text-center w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
             <p className='font-bold'>Dr. R.A. Burange</p>
-            <p >Assisstant Professor</p>
+            <p >Assistant Professor</p>
             <p >ETC Engineering Deptt.</p>
             <p >KDKCE, Nagpur</p>
           </div>

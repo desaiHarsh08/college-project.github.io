@@ -25,7 +25,7 @@ https://forms.gle/AkCpzj3LAYax5KRu9'>
               <thead >
                 <tr className='bg-[#0d2d62] text-white text-xs'>
                   <th className='py-3 text-center px-5 border-r-2 border-white w-[10%] '>Sr. No</th>
-                  <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Deligates</th>
+                  <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Delegates</th>
                   <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Registration Fees For Participant only</th>
                   <th className='py-3 text-center px-5 border-r-2 border-white w-[30%] '>Registration Fees For Participant only after due date 24<sup>th</sup> &nbsp; Feb 2023</th>
                 </tr>
@@ -51,7 +51,7 @@ https://forms.gle/AkCpzj3LAYax5KRu9'>
                 </tr>
                 <tr className='hover:bg-slate-300 border-2 border-b-2'>
                   <td className='p-3 text-center border-2 border-r-2'>4</td>
-                  <td className='p-3 text-center border-2 border-r-2'>Foreign Deligates</td>
+                  <td className='p-3 text-center border-2 border-r-2'>Foreign Delegates</td>
                   <td className='p-3 text-center border-2 border-r-2'>$ 50</td>
                   <td className='p-3 text-center border-2 border-r-2'>$ 80</td>
                 </tr>

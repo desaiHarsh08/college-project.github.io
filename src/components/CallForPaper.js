@@ -105,7 +105,7 @@ const CallForPaper = () => {
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in Project Management </span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovation Ecosystems </span></li>
                 <li className='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in Information Sciences  </span></li>
-                <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in E-Leaming & E-Health   </span></li>
+                <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Innovations in E-Learning & E-Health   </span></li>
                 <li encesclassName='flex items-center'><i class="fa-sharp fa-solid fa-circle-dot mx-2 "></i><span> Industrial Internet of Things   </span></li>
               </ul>
             </div>
