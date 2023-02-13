@@ -43,7 +43,7 @@ const Committee = () => {
                 <p >Editor(Member)</p>
               </div>
               <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
-                <p className='font-bold'>Dr. A.P. Bhange</p>
+                <p className='font-bold'>Dr. A.D. Bhange</p>
                 <p >Editor(Member)</p>
               </div>
               <div className='card w-full md:w-[30%]  shadow-2xl hover:text-white hover:bg-orange-700 px-5 py-2 border-2 rounded-lg border-l-4 border-l-orange-800 '>
