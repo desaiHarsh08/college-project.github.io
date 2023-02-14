@@ -52,7 +52,7 @@ const AuthorGuidelines = () => {
           </ul>
         </div> */}
         <p>
-        Original unpublished papers for presentation in technical session of conference are called from Researchers, Scientists and Engineers. Refer website www.etece.co.in for manuscript/abstract template.
+        Original unpublished papers for presentation in technical session of conference are called from Researchers, Scientists and Engineers. <a href='https://drive.google.com/file/d/1a3MevezyZgOsjVLjgrftJrgTEfwQQ45z/view?usp=sharing' className='hover:underline hover:underline-offset-4 text-blue-700' target={'_blank'}>Click here</a> for manuscript/abstract template.
         </p>
 
       </div>
